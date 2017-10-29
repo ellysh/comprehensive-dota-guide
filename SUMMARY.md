@@ -5,3 +5,4 @@
 * [Основы и механика игры](3_basic-elements.md)
 * [Строения](4_buildings.md)
 * [Герой](5_hero.md)
+* [Роли героев](6_hero_roles.md)
