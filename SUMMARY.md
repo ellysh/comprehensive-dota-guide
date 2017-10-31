@@ -6,3 +6,4 @@
 * [4. Строения](4_buildings.md)
 * [5. Герой](5_hero.md)
 * [6. Роли героев](6_hero_roles.md)
+* [7. Способности](7_abilities.md)
