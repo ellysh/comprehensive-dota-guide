@@ -48,3 +48,5 @@
 Результат размещения Observer Ward и Sentry Ward:
 
 ![Размещение вардов](images/10.4_wards.gif)
+
+* ![Healing Salve](images/10.5_healing_salve.png) [**Healing Salve**](https://dota2-ru.gamepedia.com/Healing_Salve) (110 золота) - расходуемый предмет, который значительнео ускоряет регенерацию здоровья на короткий промежуток времени. Эффект от это предмета прекращается, как только герой получает урон.
