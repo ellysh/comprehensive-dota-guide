@@ -31,3 +31,28 @@
 
 Если вы играете за героя поддержки, вам следует покупать несколько Observer Wards и курьера.
 
+**Три предмета с бонусом +1 к параметрам или предмет +3.**
+Предпочтительнее покупать несколько дешёвых предметов на увеличение параметров, чем один дорогой. Дешёвые предметы дают больший бонус в пересчёте на потраченное золото. Лучший предмет в этой категории - ![Iron Branch](images/17.1_iron_branch.png) [**Iron Branch**](https://dota2-ru.gamepedia.com/Iron_Branch). Он даёт +1 ко всем параметрам всего за 50 золота. При покупке дорогого предмета с большим бонусом, вы доплачиваете за экономию места в инвентаре. Но в начале игры ваш инвентарь пуст, и в такой экономии нет смысла.
+
+Другие предметы, часто покупаемые в начале матача:
+
+* ![Quelling Blade](images/17.2_quelling_blade.png) [**Quelling Blade**](https://dota2-ru.gamepedia.com/Quelling_Blade) (200 золота) - увеличивает на 24 урон против крипов для героев ближнего боя и на 7 -  для дальнего.
+    * Часто покупается кэрри ближнего боя, чтобы легче наносить последний удар по крипам на линии.
+    * Предмет имеет активную способность - срубить дерево. Она полезна, чтобы прорубать проходы в лесу.
+
+* ![Stout Shield](images/17.3_stout_shield.png) [**Stout Shield**](https://dota2-ru.gamepedia.com/Stout_Shield) (200 золота) - даёт 50% шанс заблокировать 18 урона для героев ближнего боя и 9 для дальнего.
+    * Часто покупается героями ближнего боя, которые стоят против героев дальнего боя на линии.
+
+* ![Ring of Protection](images/17.4_ring_of_protection.png) [**Ring of Protection**](https://dota2-ru.gamepedia.com/Ring_of_Protection) (175 золота) - даёт +2 к броне героя. Уменьшает урон, получаемый от крипов и вражеского героя.
+    * Вместе с ![Sage's Mask](images/17.5_sages_mask.png) [**Sage's Mask**](https://dota2-ru.gamepedia.com/Sage%27s_Mask) (325 золота) собирается в предмет ![Ring of Basilius](images/17.6_ring_of_basilius.png) [**Ring of Basilius**](https://dota2-ru.gamepedia.com/Ring_of_Basilius).
+    * Герои, которые собирают Ring of Basilius на начальной стадии матча, обычно покупают Ring of Protection, как начальный предмет. После этого недостающий для сборки Sage's Mask можно купить в боковой лавке на линии.
+    * Также является компонентом ![Tranquil Boots](images/17.6_tranquil_boots.png) [**Tranquil Boots**](https://dota2-ru.gamepedia.com/Tranquil_Boots). (Все предметы типа Boots описаны в разделе "Фазы матча").
+
+* ![Gauntlets of Strength](images/17.7_gauntlets_of_strength.png) [**Gauntlets of Strength**](https://dota2-ru.gamepedia.com/Gauntlets_of_Strength), ![Slippers of Agility](images/17.8_slippers_of_agility.png) [**Slippers of Agility**](https://dota2-ru.gamepedia.com/Slippers_of_Agility), ![Mantle of Intelligence](images/17.9_mantle_of_intelligence.png) [**Mantle of Intelligence**](https://dota2-ru.gamepedia.com/Mantle_of_Intelligence) (135 золота) - эти предметы дают бонус +3 к одному параметру. Они не так выгодны для покупки, как Iron Branch, но их часто покупают для сборки других дешёвых предметов.
+
+* ![Circlet](images/17.10_circlet.png) [**Circlet**](https://dota2-ru.gamepedia.com/Circlet) (165 золота) - даёт бонус +2 ко всем параметрам. Стоит более чем в три раза дороже, чем Iron Branch. Имеет смысл покупать только с целью дальнейшей сборки в другой предмет. Также можно купить, если у вас есть золото и не хватает места в инвентаре для двух Iron Branch.
+
+Следующее видео объясняет на что вы должны обращать внимание при выборе начальных предметов:
+
+[![Learn Dota 2 - Starting Items](http://img.youtube.com/vi/Y_4sh8IzIZI/0.jpg)](https://www.youtube.com/watch?v=Y_4sh8IzIZI)
+
