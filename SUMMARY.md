@@ -17,3 +17,4 @@
 * [15. Поиск вашего первого матча](15_first_game.md)
 * [16. Выбор героя и состав команды](16_choosing_hero.md)
 * [17. Подготовка к матчу и начальные предметы](17_pregame_basics_and_starting_items.md)
+* [18. Взаимодействие с командой](18_communicating_with_your_team.md)
