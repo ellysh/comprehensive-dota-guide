@@ -22,7 +22,7 @@
 
 * ![Boots of Travel](images/19.6_boots_of_travel.png) [**Boots of Travel**](https://dota2-ru.gamepedia.com/Boots_of_Travel) (2400 золота) - их активная способность телепортирует героя к союзному строению или существу. Имеют общее время перезарядки с [Town Portal Scroll](https://dota2-ru.gamepedia.com/Town_Portal_Scroll).
 
-Все компоненты Phase Boots, Arcane Boots и Power Treads могут быть куплены в бокой лавке. Это означает, что вы можете покупать и улучшать свои Boots, не покидая линию.
+Все компоненты Phase Boots, Arcane Boots и Power Treads могут быть куплены в бокой лавке. Это означает, что вы можете покупать и улучшать свои Boots, не покидая линию.<br/>
     * Единственный компонент Tranquil Boots, который недоступен в боковой лавке - это Ring of Protection.
 
 ![Magic Wand](images/19.7_magic_wand.png) [**Magic Wand**](https://dota2-ru.gamepedia.com/Magic_Wand) (400 золота) - другой отличный предмет, который должно покупать большинство героев в каждом матче.
