@@ -22,6 +22,23 @@
 
 * ![Boots of Travel](images/19.6_boots_of_travel.png) [**Boots of Travel**](https://dota2-ru.gamepedia.com/Boots_of_Travel) (2400 золота) - их активная способность телепортирует героя к союзному строению или существу. Имеют общее время перезарядки с [Town Portal Scroll](https://dota2-ru.gamepedia.com/Town_Portal_Scroll).
 
+Все компоненты Phase Boots, Arcane Boots и Power Treads могут быть куплены в бокой лавке. Это означает, что вы можете покупать и улучшать свои Boots, не покидая линию.
+    * Единственный компонент Tranquil Boots, который недоступен в боковой лавке - это Ring of Protection.
+
+![Magic Wand](images/19.7_magic_wand.png) [**Magic Wand**](https://dota2-ru.gamepedia.com/Magic_Wand) (400 золота) - другой отличный предмет, который должно покупать большинство героев в каждом матче.
+
+* Собирается из ![Magic Stick](images/19.8_magic_stick.png) [**Magic Stick**](https://dota2-ru.gamepedia.com/Magic_Stick) (200 золота), двух ![Iron Branch](images/19.9_iron_branch.png) [**Iron Branch**](https://dota2-ru.gamepedia.com/Iron_Branch) (2x50 золота) и ![Enchanted Mango](images/19.10_enchanted_mango.png) [**Enchanted Mango**](https://dota2-ru.gamepedia.com/Enchanted_Mango) (100 золота).
+
+* Большинство героев начинает матч с несколькими Iron Branch, что облегчает сборку Magic Stick.
+
+* Magic Stick заряжается каждый раз, когда вражеский герой использует способность недалеко от вас. Когда предмет заряжен, вы можете использовать его и мгновенно получить 15 здоровья и маны за каждый заряд.
+
+* Magic Stick может иметь до 10 зарядов.
+
+* Magic Wand работает так же, как Magic Stick. Он может иметь до 17 зарядов.
+
+* Не забывайте использовать предмет. Накопленгие зарядов и активация предмета в нужный момент может спасти вам жизнь.
+
 ## Середина матча (Mid Game)
 
 ## Конец матча (Late Game)
