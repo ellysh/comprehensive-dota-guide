@@ -10,7 +10,7 @@
 
 Есть много способов получения золота и опыта быстрее других игроков в линейной фазе. Вы узнаете о них, приобретя некоторый опыт игры.
 
-Один из первых предметов, который вы приобретёте, оказавшись на линии, - это ![Boots of Speed](images/19.1_boots_of_speed.png) [**Boots of Speed**](https://dota2-ru.gamepedia.com/Boots_of_Speed) (400 золота). Boots of Speed увеличивают скорость передвижения героя, и их можно улучшить. Улучшенный предмет даст бонус к параметрам, а также имеет активную или пассивную способность.
+Один из первых предметов, который вы купите, оказавшись на линии, - это ![Boots of Speed](images/19.1_boots_of_speed.png) [**Boots of Speed**](https://dota2-ru.gamepedia.com/Boots_of_Speed) (400 золота). Boots of Speed увеличивают скорость передвижения героя, и их можно улучшить. Улучшенный предмет даст бонус к параметрам, а также имеет активную или пассивную способность.
 
 * ![Tranquil Boots](images/19.2_tranquil_boots.png) [**Tranquil Boots**](https://dota2-ru.gamepedia.com/Tranquil_Boots) (950 золота) - имеют пассивную способность на регенерацию здоровья. Регенерация прерывается на 13 секунд если герой был атакован или атаковал сам.
 
@@ -26,7 +26,7 @@
 
 * Единственный компонент Tranquil Boots, который недоступен в боковой лавке - это Ring of Protection.
 
-![Magic Wand](images/19.7_magic_wand.png) [**Magic Wand**](https://dota2-ru.gamepedia.com/Magic_Wand) (400 золота) - другой отличный предмет, который должно покупать большинство героев в каждом матче.
+![Magic Wand](images/19.7_magic_wand.png) [**Magic Wand**](https://dota2-ru.gamepedia.com/Magic_Wand) (400 золота) - другой отличный предмет, который следует покупать большинству героев в каждом матче.
 
 * Собирается из ![Magic Stick](images/19.8_magic_stick.png) [**Magic Stick**](https://dota2-ru.gamepedia.com/Magic_Stick) (200 золота), двух ![Iron Branch](images/19.9_iron_branch.png) [**Iron Branch**](https://dota2-ru.gamepedia.com/Iron_Branch) (2x50 золота) и ![Enchanted Mango](images/19.10_enchanted_mango.png) [**Enchanted Mango**](https://dota2-ru.gamepedia.com/Enchanted_Mango) (100 золота).
 
