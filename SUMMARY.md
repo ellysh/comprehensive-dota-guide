@@ -20,3 +20,4 @@
 * [18. Взаимодействие с командой](18_communicating_with_your_team.md)
 * [19. Фазы матча](19_game_phases_overview.md)
 * [20. Окончание матча](20_ending_game.md)
+* [21. Учитесь на своих матчах](21_learning_from_your_games.md)
