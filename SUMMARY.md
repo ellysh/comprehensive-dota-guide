@@ -21,3 +21,4 @@
 * [19. Фазы матча](19_game_phases_overview.md)
 * [20. Окончание матча](20_ending_game.md)
 * [21. Учитесь на своих матчах](21_learning_from_your_games.md)
+* [22. Делать и не делать](22_miscellaneous_dos_and_donts.md)
