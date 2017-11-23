@@ -22,3 +22,4 @@
 * [20. Окончание матча](20_ending_game.md)
 * [21. Учитесь на своих матчах](21_learning_from_your_games.md)
 * [22. Делать и не делать](22_miscellaneous_dos_and_donts.md)
+* [23. Продвинутая игровая механика](23_intermediate_game_mechanics.md)
