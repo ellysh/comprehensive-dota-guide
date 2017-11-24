@@ -1,5 +1,5 @@
 # 
-# Полный гайд по Dota 2
+# Полный гайд по Dota 2 от devilesk
 
 *Это перевод [Comprehensive Dota 2 Guide](http://steamcommunity.com/sharedfiles/filedetails/?id=123364976) от [devilesk](http://steamcommunity.com/id/devilesk) на русский язык. Гайд был написан для версии игры 6.88. В переводе были учтены нововведения текущей версии 7.07.*
 
