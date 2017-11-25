@@ -24,3 +24,5 @@
 * [22. Делать и не делать](22_miscellaneous_dos_and_donts.md)
 * [23. Продвинутая игровая механика](23_intermediate_game_mechanics.md)
 * [24. Лес](24_the_jungle.md)
+* [25. Особенности фарма на линии](25_laning_concepts_in_detail.md)
+
