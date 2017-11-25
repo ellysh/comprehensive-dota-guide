@@ -23,3 +23,4 @@
 * [21. Учитесь на своих матчах](21_learning_from_your_games.md)
 * [22. Делать и не делать](22_miscellaneous_dos_and_donts.md)
 * [23. Продвинутая игровая механика](23_intermediate_game_mechanics.md)
+* [24. Лес](24_the_jungle.md)
