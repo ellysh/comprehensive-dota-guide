@@ -39,17 +39,16 @@
 
 ## Стакинг
 
-Neutral creeps will spawn if there is no unit in or around the area of their neutral camp. This area is known as a neutral camp spawn box.
-Нейтральные крипы возродятся, если в области их лагеря нет других существ. Эта область известна, как область возрождения нейтрального лагеря (neutral camp spawn box).
+Нейтральные крипы возродятся только тогда, когда в области их лагеря нет других существ. Эта область известна, как область возрождения нейтрального лагеря (spawn box).
 
-Pulling
-Пуллинг
+## Пуллинг
 
-As mentioned earlier, neutral creeps can be lured into a lane to divert the path of lane creeps.
-Как упоминалось раньше нейтральных крипов можно выманить на линию, чтобы их атаковали линейные крипы.
+Как упоминалось раньше нейтральных крипов можно выманить на линию, чтобы их начали атаковать линейные крипы.
 
-Here's an image showing timings of when a player should attack a neutral camp to begin drawing their aggro.
-На следующей картинке указаны моменты времени, когда игрок должен нападать на нейтральных крипов, чтобы они встретились с линейными крипами на линии.
+На следующей картинке указаны моменты времени, когда игрок должен нападать на нейтральных крипов, чтобы они встретились с линейными крипами на линии:
 
-A video by NinjaX titled "Jungling: Beyond The Basics"
+![Моменты времени для пуллинга](images/24.5_pulling_timings.jpg)
+
 Следующее видео описывает продвинутые техники фарма в лесу:
+
+[![Jungling: Beyond The Basics](http://img.youtube.com/vi/zH9_jy_tSLs/0.jpg)](https://www.youtube.com/watch?v=zH9_jy_tSLs)

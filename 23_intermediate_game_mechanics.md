@@ -88,5 +88,3 @@
 Следующее видео расскажет подробнее об агрессии крипов и башен:
 
 [![Learn Dota 2 - Creep Aggro](http://img.youtube.com/vi/lOXljong68E/0.jpg)](https://www.youtube.com/watch?v=lOXljong68E)
-
-
