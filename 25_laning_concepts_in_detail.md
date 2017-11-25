@@ -16,49 +16,23 @@
 
 Если ваш герой превосходит оппонента, вы можете активно пушить линию, а затем атаковать и уничтожить вражескую башню. Когда вражеская башня атакует ваших крипов, они будут убиты быстрее. Это позволит в скором времени волне вражеских крипов продвинуться обратно к вашей башне. В результате равновесие последующих волн крипов сдвинется ближе к вашей башне.
 
-Last-hitting creeps disturbs the creep equilibrium, because you're helping your creeps kill off the enemy creeps.
-Нанесение последнего удара по крипам нарушает их равновесие, потому что вражеские крипы умирают быстрее ваших.
+Нанесение последнего удара по вражеским крипам нарушает равновесие, потому что они умирают быстрее ваших. В большем масштабе времени это означает, что волны ваших крипов медленно приближаются к башне противника. Там наносить последний удар сложнее и опаснее. Именно поэтому важно точно рассчитывать время ваших атак по крипам и наносить им только последние удары.
 
-Over time this means your creep wave will slowly push towards the enemy tower, where it becomes more dangerous and difficult to continue to last-hit. 
-В большем масштабе времени это означает, что волны ваших крипов медленно приближаются к башне противника. Там наносить последний удар сложнее и опаснее.
-
-This is why it is important to carefully time your attacks and only attack creeps if it's to get a killing blow.
-Именно поэтому важно точно рассчитывать время ваших атак на крипов и наносить только последние удары.
-
-To counter the effects of last-hitting pushing the lane, you want to balance your last-hits with denies. 
-Скомпенсировать эффект пуша линии из-за последнего удара вы можете добиванием союзных крипов.
-
-This doesn't mean you need to wait to get a last hit on your own creeps.
-Это не означает, что вы должны ждать и наносить союзным крипам последний удар.
-
-Attacking your own creeps once they half health will suffice since it will make your creep die quicker.
-Вы можете атаковать их при уровне здоровья меньше половины. Этого будет достаточно, чтобы ваши крипы умирали быстрее.
-
-Helping to kill off your own creeps negates the advantage you give to your creeps when you kill enemy creeps.
-Убийство союзных крипов компенсирует преимущество, которое они получают над крипами противника за счёт вашего последнего удара.
+Скомпенсировать эффект пуша линии из-за последнего удара можно добиванием союзных крипов. Это не означает, что вы должны ждать и наносить союзным крипам только последний удар. Вы можете атаковать их при уровне здоровья меньше половины. Этого будет достаточно, чтобы ваши крипы умирали быстрее. Убийство союзных крипов компенсирует преимущество, которое они получают за счёт ваших последних ударов по крипами противника.
 
 Maintaining creep equilibrium through balanced last-hitting and denying results in creep waves meeting at the same place in the lane every time, wave after wave.
-Сохранение равновесии на линии благодаря сбалансированным последним ударам и добиваниям приведёт  к тому, что волны крипов обоих команд будут встречаться постоянно в одной и той же точке.
+Сохранение равновесии на линии благодаря сбалансированным последним ударам и добиваниям приведёт к тому, что волны крипов обеих команд будут встречаться постоянно в одной и той же точке. Фарм на линии при сохранении равновесия называется **статичным фармом** (static-farming).
 
- Farming a lane while maintaining its equilibrium is known as static-farming[www.dota2wiki.com].
-Фарм на линии при сохранении равновесия называется статичным фармом (static-farming).
+## Управление крипами на линии за счёт их агрессии
 
-Manipulating Creep Line with Creep Aggro
-Управление крипами на линии за счёт их агрессии.
+Техника привлечения агрессии крипов на себя будет полезна героям ближнего боя. Для этого необходимо напасть на вражеского героя (правый клик мыши по нему) и сразу же отступить под союзную башню. Вражеские крипы начнут преследовать вас до тех пор, пока снова не поменяют свой приоритет атаки и не продолжат бить других крипов. В результате ваши и вражеские крипы поменяются местами, как на картинке:
 
-A technique beneficial for melee heroes is to draw creep aggro by attempting to attack an enemy hero in lane (right-clicking them) and then immediately moving away and back to your tower.
-Техника привлечения агрессии крипов на себя будет полезна героям ближнего боя. Для этого необходимо напасть на вражеского героя на линии (правый клик мыши по нему) и сразу же отступить под вашу башню.
+![Агрессия крипов](images/25.1_creep_agro.png)
 
- The creeps will follow you until they reprioritize their target and return to attacking your creeps. This will result in a reversal of where your creeps and the enemy creeps are as pictured below.
-Крипы начнут преследовать вас до тех пор, пока снова не поменяют свой приоритет атаки и не продолжат бить других крипов. В результате ваши и вражеские крипы поменяются местами, как на картинке внизу.
+Расположение вражеских крипов с вашей стороны безопаснее для нанесения по ним последнего удара по двум причинам: они ближе к вам, союзные крипы находятся впереди и защитят вас от вражеского героя.
 
-Having the enemy creeps on your side makes it safer to last hit, because now they're closer to you and you have your creeps in front to defend against enemy heroes.
-Расположение вражеских крипов с вашей стороны безопаснее для нанесения по ним последнего удара, потому что они ближе к вам. В то же время ваши крипы находятся впереди и защитят вас от вражеского героя.
+## Пуллинг
 
-Pulling
-Пуллинг
-
-Neutral pulling is also a tactic used to divert your creeps from the lane.
 Пуллинг нейтральных крипов - это также тактика вывести ваших крипов с линии.
 
 Instead of allowing your creeps to continue to move down the lane and ultimately engage the enemy creeps, they can be drawn out of a lane to fight the neutral creeps in a nearby jungle camp instead.
