@@ -33,26 +33,16 @@ Maintaining creep equilibrium through balanced last-hitting and denying results 
 
 ## Пуллинг
 
-Пуллинг нейтральных крипов - это также тактика вывести ваших крипов с линии.
+Пуллинг нейтральных крипов - это также тактика вывести союзных крипов с линии. Вместо того чтобы позволить им двигаться дальше по линии и в конечном счёте столкнуться с вражескими крипами, их можно увести с линии и заставить сражаться с нейтральными крипами из ближайшего лагеря в лесу.
 
-Instead of allowing your creeps to continue to move down the lane and ultimately engage the enemy creeps, they can be drawn out of a lane to fight the neutral creeps in a nearby jungle camp instead.
-Вместо того, чтобы 
+Это позволит вражеским крипам без препятствий достичь вашей башни.
 
-This lets the enemy creep wave move all the way up to your own tower.
-If a neutral camp is stacked before your creep wave is pulled into it, the stacked neutral camp can completely kill off your own creep wave, thereby denying the enemy an creep wave of experience and gold.
-You can also last-hit the neutral camp and deny your own creeps just as you would if your creeps were fighting enemy creeps.
+Если лагерь нейтральных крипов был стакнут, перед тем как вы вытаскиваете его на линию, нейтральные крипы могут перебить всю волну ваших крипов. Тем самым вы лишите врага золота и опыта, которые он бы получил за убийство этой волны.
 
-    Most of the time before you pull, you'll want to have the neutral camp stacked. So in general, always stack before you pull.
+Во время сражения вашей волны с нейтральными крипами, вы можете наносить по ним последний удар и добивать союзных крипов точно так же, как вы бы делали это на линии в обычных условиях.
 
-However, a good enemy won't allow you to freely pull camps uncontested.
-They can completely prevent your neutral camp from spawning by placing a ward inside the camp, because neutral camps won't respawn if there is a unit in the area.
-They can also try to pull your pulled creeps back into the lane, or just try to farm off your creeps and the neutrals.
+* В большинстве случаев перед началом пуллинга вам надо стакнуть нейтральных крипов. Поэтому общим правилом будет: всегда делайте стаки перед пуллингом.
 
-Creep Block
-Heroes can slow down the movement of creeps by getting in front of them. This obstructs the creeps and forces them to move around the hero. If the hero does this at the beginning of a lane and keeps moving forward with the creeps while blocking them, this can make a significant impact on where the two creep lines will fight in lane.
+Опытные противники не дадут вам свободно пуллить нейтральных крипов безнаказанно. Они могу полностью выключть возрождение нейтральных крипов в лагере, поместив в нём вард. Также они могут попытаться вытащить ваших крипов обратно на линию или перебить их прямо в лесу вместе с нейтральными крипами.
 
-A hero creep blocking in the middle lane.
-
-
-The first picture below shows where the creeps would meet in the middle lane if both sides are unblocked. The second picture shows where the creeps meet if the player on the Dire side blocks his creeps. Note that the creeps meet at the top of the ramp. This gives the Dire player the elevation advantage, because it forces the Radiant player to stand in the river if he wants to last hit.
 
