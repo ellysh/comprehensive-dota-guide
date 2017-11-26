@@ -26,3 +26,4 @@
 * [24. Лес](24_the_jungle.md)
 * [25. Особенности фарма на линии](25_laning_concepts_in_detail.md)
 * [26. Средняя линия](26_the_middle_lane.md)
+* [27. Боковая линия](27_the_side_lane.md)
