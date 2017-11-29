@@ -28,3 +28,4 @@
 * [26. Средняя линия](26_the_middle_lane.md)
 * [27. Боковая линия](27_the_side_lane.md)
 * [28. Позиционирование, предупреждение и расстановка вардов](28_positioning_awareness_and_warding.md)
+* [29. Роли героев и распределение фарма](29_hero_roles_and_distributing_farm.md)
