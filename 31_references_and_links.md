@@ -8,13 +8,13 @@
 Wiki и другие информационные ресурсы:
 
 * [**Dota 2 Wiki**](https://dota2-ru.gamepedia.com/Dota_2_%D0%92%D0%B8%D0%BA%D0%B8)
-* [**Wiki ресурс команды Team Liquid](http://wiki.teamliquid.net/dota2/Main_Page)
+* [**Wiki ресурс команды Team Liquid**](http://wiki.teamliquid.net/dota2/Main_Page)
 
 Гайды:
 
 * [**Полный гайд по вардингу**](http://www.team-dignitas.net/articles/blogs/dota/1092/dota-2-ultimate-guide-to-warding)
 
-[**Интерактивная карта Dota 2**](http://devilesk.com/dota2/apps/interactivemap/)
+* [**Интерактивная карта Dota 2**](http://devilesk.com/dota2/apps/interactivemap/)
 
 Сообщество игроков Dota 2:
 
