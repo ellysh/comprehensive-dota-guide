@@ -30,3 +30,4 @@
 * [28. Позиционирование, предупреждение и расстановка вардов](28_positioning_awareness_and_warding.md)
 * [29. Роли героев и распределение фарма](29_hero_roles_and_distributing_farm.md)
 * [30. Механика для опытных игроков](30_advanced_game_mechanics.md)
+* [31. Ссылки](31_references_and_links.md)
