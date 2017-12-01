@@ -27,7 +27,7 @@
 * [25. Особенности фарма на линии](25_laning_concepts_in_detail.md)
 * [26. Средняя линия](26_the_middle_lane.md)
 * [27. Боковая линия](27_the_side_lane.md)
-* [28. Позиционирование, предупреждение и расстановка вардов](28_positioning_awareness_and_warding.md)
+* [28. Позиционирование, осведомлённость и расстановка вардов](28_positioning_awareness_and_warding.md)
 * [29. Роли героев и распределение фарма](29_hero_roles_and_distributing_farm.md)
 * [30. Механика для опытных игроков](30_advanced_game_mechanics.md)
 * [31. Ссылки](31_references_and_links.md)
